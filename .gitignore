@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.streamlit/
+.cache/
+node_modules/
+.DS_Store
+data/raw/
+data/temp/
